@@ -1,6 +1,6 @@
 # VIRTUAL LEAGUE
 
-**FEATURES**
+## Features
 - There are 18 teams in the Virtual League. This number can be changed if necessary. 
 - Team names (one or more words) and coach names (two words) are read from the file named “takimlar.txt”.
 - While the team names are read from the file, aliases of the related teams are created. These nicknames must consist of 2 or 3 letters. 
@@ -9,7 +9,7 @@
 
 An example of nicknames is shown below.
 
-![TeamNickname](https://user-images.githubusercontent.com/59221929/155006716-8ab34183-1615-47c0-aa9d-ba055492dea8.png)
+![Team Nickname](screenshots/SS_6.png)
 
 - Teams are formed by producing player information. Random football player names and surnames can be generated from the information in the “name.txt” and “surname.txt” files.
 - Age information from 18 to 36 and jersey number from 1 to 99 are randomly assigned to players.
@@ -21,6 +21,18 @@ An example of nicknames is shown below.
   + Each team must be formed with an average performance of at least 60 (Total Player Performance / 11).
   + Each team must be formed with an average age of at least 25 and at most 32.
   + All player information and team information of the team whose nickname is entered in the application should be displayed on the screen.
+
+## Screenshots
+
+  ![SS_1](screenshots/SS_1.png)
+  ![SS_2](screenshots/SS_2.png)
+  ![SS_3](screenshots/SS_3.png)
+  ![SS_4](screenshots/SS_4.png)
+  ![SS_5](screenshots/SS_5.png)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 
