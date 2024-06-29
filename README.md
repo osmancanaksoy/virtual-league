@@ -1,4 +1,4 @@
-# VIRTUAL LEAGUE
+# Virtual League
 
 ## Features
 - There are 18 teams in the Virtual League. This number can be changed if necessary. 
